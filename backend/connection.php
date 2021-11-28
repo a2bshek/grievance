@@ -1,8 +1,8 @@
  <?php
-	$sname = "sql207.epizy.com";
-	$uname = "epiz_28433216";
-	$password = "KwQXsYkBpEI";
-	$db_name = "epiz_28433216_raisemyvoice";
+	$sname = "*****";
+	$uname = "*****";
+	$password = "*****";
+	$db_name = "*****";
 	$conn = mysqli_connect($sname, $uname, $password, $db_name);
 	
 	if (!$conn) 
