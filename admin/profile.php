@@ -73,7 +73,7 @@
 											  </div>
 											</form>
 											<?php
-												$con = mysqli_connect("sql207.epizy.com","epiz_28433216","KwQXsYkBpEI","epiz_28433216_raisemyvoice");
+												$con = mysqli_connect("*****","*****","*****","*****");
 												if(isset($_GET['user_id']))
 												{
 													$user_id = $_GET['user_id'];
