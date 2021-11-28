@@ -1,5 +1,5 @@
 <?php
-    mysql_connect("sql207.epizy.com","epiz_28433216","KwQXsYkBpEI");
+    mysql_connect("*****","*****","*****");
     mysql_select_db("epiz_28433216_raisemyvoice")
 ?>
 <!DOCTYPE HTML>
