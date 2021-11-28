@@ -80,7 +80,7 @@
                                         </thead>
                                         <tbody>
                                             <?php
-                                            $con = mysqli_connect("sql207.epizy.com","epiz_28433216","KwQXsYkBpEI","epiz_28433216_raisemyvoice");
+                                            $con = mysqli_connect("*****","*****","*****","*****");
                                             $query = "SELECT * FROM complaints";
                                             $query_run = mysqli_query($con,$query);
                                             if(mysqli_num_rows($query_run)>0)
