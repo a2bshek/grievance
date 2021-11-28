@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!-- <!DOCTYPE HTML>
 <HTML lang="en">
 	<HEAD>
 		<meta charset="utf-8" />
@@ -112,4 +112,4 @@
         <script src=""></script>
         <script src=""></script>
     </BODY>
-</HTML>
+</HTML> -->
